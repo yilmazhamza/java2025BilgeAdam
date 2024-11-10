@@ -1,4 +1,4 @@
-public class IfStatement {
+public class HomeWork {
     public static void main(String[] args) {
 
         //09.11.2024 ödev
